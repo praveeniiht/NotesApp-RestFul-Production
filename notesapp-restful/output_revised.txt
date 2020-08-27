@@ -1,0 +1,7 @@
+
+givenOneNote_ThenAddOnlyOne=true
+given3Notes_thenDisplay3Notes=true
+testAddNote=true
+testGetNoteById=true
+testGetAllNotesByStatus=true
+testGetAllNotes=true
